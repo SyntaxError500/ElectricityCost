@@ -46,7 +46,7 @@
 - Best balance of bias and variance
 
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 ###  `GET /`
 
@@ -58,7 +58,7 @@ json
 }
 
 
-### 📤 `POST /predict`
+###  `POST /predict`
 
 **Description:** Predicts electricity cost from input features
 
