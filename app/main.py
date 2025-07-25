@@ -7,7 +7,7 @@ import pandas as pd
 
 
 # Load pipeline
-pipeline = joblib.load("../model/final_pipeline.pkl")
+pipeline = joblib.load("model/final_pipeline.pkl")
 
 app = FastAPI()
 
